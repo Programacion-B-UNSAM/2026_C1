@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 #include "header.h"
+#include "functions.c"
+#include "catedra.c"
 
 int main() {
 #ifdef EJ1
