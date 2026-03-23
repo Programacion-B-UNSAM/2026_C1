@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include "header.h"
 
+/* Nombre:  
+ * Carrera: 
+ */
+
 /* =============   EJERCICIO 1   ============= */
 
 datosSensor_t obtenerDatos(uint16_t dato) {}
