@@ -1,0 +1,1 @@
+gcc -c funciones.c -o funciones.o
