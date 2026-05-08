@@ -17,19 +17,19 @@ int findNode(Node *root, int value);
 
 Ejemplo:
 ```c
-int arr[]= {1, 8, 5, 10, 11, 12, 9};
+int arr[]= {10, 8, 5, 11, 12, 13, 9};
 Node * root;
 
 createTree(arr, 7, &root);
 
 /* Arbol creado:
-    1
+    10
    / \
-  8   10
+  8   11
  / \    \
-5    9   11
+5    9   12
           \
-           12
+           13
 */
 
 int found 
