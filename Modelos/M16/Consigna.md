@@ -1,5 +1,18 @@
 # Parcial (M16) - Programacion en C - 2026C1
 
+# Consideraciones 
+
+- Las resoluciones deben ser genéricas
+- No deben usar ni modificar nada del archivo Catedra_M16.c
+- Un punto del exámen queda asociado a:
+
+    - Utilización del formato provisto de la catedra
+    - Claridad y orden de su código
+    - Presentación clara y concisa de resultados
+    - Utilización correcta de los recursos
+    
+- Recuerde liberar toda la memoria utilizada al finalizar el programa
+
 ## Ejercicio 1
 
 La función CATEDRA_CrearGrilla devuelve la dirección de memoria de el primer nodo de una grilla (el de arriba a la izquierda)
