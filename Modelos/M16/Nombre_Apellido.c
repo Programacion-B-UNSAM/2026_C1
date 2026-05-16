@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "header.h"
-#include "CATEDRA_M16.c"
+#include "Catedra_M16.c"
 #include "funcs.c"
 
 #define EJ1
